@@ -98,3 +98,7 @@ Open frame: là khi mà  sau các cú ném vẫn còn một vài quân Ki chưa 
 
 ##### Điểm tối đa có thể ghi được là 300 điểm. tương đương với 12 lần Strike liên tiếp trong 12 lượt. Lí do có 12 lượt là vì nếu người chơi đạt được Strike ở lượt cuối cùng, người chơi sẽ được thêm 1 lần ném nữa. Nếu chỉ đạt được. Nếu chỉ đạt Spare thì chỉ được 1 lần ném.
 # Demo
+
+
+https://github.com/Dthai16gg/Bowling-Game/assets/88380128/4843e367-9aaa-419a-87a6-4bee387f25a6
+
